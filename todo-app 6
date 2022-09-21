@@ -1,0 +1,5 @@
+git init
+git clone https://github.com/nellocas01/App-Todo.git
+git add *
+git commit -m "first commit"
+git push origin master
